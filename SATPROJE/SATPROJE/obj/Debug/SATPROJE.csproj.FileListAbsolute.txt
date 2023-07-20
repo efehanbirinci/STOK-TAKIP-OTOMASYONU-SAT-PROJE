@@ -1,0 +1,13 @@
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\bin\Debug\SATPROJE.exe.config
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\bin\Debug\SATPROJE.exe
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\bin\Debug\SATPROJE.pdb
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\obj\Debug\SATPROJE.csproj.AssemblyReference.cache
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\obj\Debug\SATPROJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\obj\Debug\SATPROJE.Form1.resources
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\obj\Debug\SATPROJE.stoklist.resources
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\obj\Debug\SATPROJE.Properties.Resources.resources
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\obj\Debug\SATPROJE.csproj.GenerateResource.cache
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\obj\Debug\SATPROJE.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\obj\Debug\SATPROJE.exe
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\obj\Debug\SATPROJE.pdb
+C:\Users\Metehan\source\repos\SATPROJE\SATPROJE\obj\Debug\SATPROJE.musterilist.resources
